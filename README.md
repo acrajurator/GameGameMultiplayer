@@ -2,7 +2,7 @@
 
 Developed with Unreal Engine 5
 
-Multiplayer - host, lan, solo, multiplayer, find server, lobby. :- 
+Multiplayer - host, lan, solo, multiplayer, find server, lobby.  <br />
 Quest system - individual, nested, chained, combined
 Factions - team combat, ai, optimization. 
 Solo combat - animation combo system, target lock
