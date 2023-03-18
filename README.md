@@ -17,3 +17,6 @@ Developed with Unreal Engine 5
 <B>Widgets</B> - quest dialogue, quest log, active quests, menu, lobby, healthbar, interaction, dialogue, game over. <br />
 <B>Slime player character</B> - Model, material, movement, tentacle skills, bullet skills<br />
 
+
+Terrain textures too big to upload standard way so skipping that for now
+
