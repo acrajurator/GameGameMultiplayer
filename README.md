@@ -15,4 +15,5 @@ Developed with Unreal Engine 5
 <B>Actor streaming</B> - actors despawn logic<br />
 <B>Animations</B> - a couple of selfmade ones to learn the animation system <br />
 <B>Widgets</B> - quest dialogue, quest log, active quests, menu, lobby, healthbar, interaction, dialogue, game over. <br />
+<B>Slime player character</B> - Model, material, movement, tentacle skills, bullet skills<br />
 
